@@ -3,6 +3,8 @@ PaliaTools7 (Firewall )
 
 how to solve crashes in fishing and vivox ("Client travel experienced failure")
 
+ps: the procedure for people who have window as a firewall, if you have avast or other do the procedure "add an exception" in your firewall.
+
 ![Capture d’écran 2023-09-04 194244](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/3b1559c1-b79a-49cf-9bb1-e5b1dc0ff50f)
 
 ![Capture d’écran 2023-09-04 194802](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/0a530410-05f8-4822-83fb-dfddc49a23f5)
@@ -16,4 +18,5 @@ how to solve crashes in fishing and vivox ("Client travel experienced failure")
 ![imagsdsdsdsde](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/61d86219-47fd-4c27-83f7-a6e75c0b66bb)
 
 then browse to \Palia\Client\Palia\Binaries\Win64 and sellect the Shipping.exe
-            or C:\Users\Admin\AppData\Local\Palia\Launcher
+
+or C:\Users\Admin\AppData\Local\Palia\Launcher
