@@ -3,15 +3,15 @@ PaliaTools7 (Firewall )
 
 ![Capture d’écran 2023-09-04 194244](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/3b1559c1-b79a-49cf-9bb1-e5b1dc0ff50f)
 
-![Capture d’écran 2023-09-04 194314_cleanup](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/34bcefd8-776b-463e-8112-4f32751fad3e)
+![Capture d’écran 2023-09-04 194802](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/0a530410-05f8-4822-83fb-dfddc49a23f5)
 
-![Capture d’écran 2023-09-04 194314_cleanup](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/67fb8cd8-0fe2-4ee2-aadf-14ac522c5ae4)
+![Capture d’écran 2023-09-04 194602](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/7e6754e3-a2f8-424a-ad4b-40f2ebc5bb1f)
 
-![Capture d’écran 2023-09-04 194841](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/3070dbc2-f6db-4e24-abaa-e0100632a092)
+![Capture d’écran 2023-09-04 194841](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/7c296aef-ecae-4241-a239-69e0bdf84828)
 
-![Capture d’écran 2023-09-04 194947](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/450cbd0d-6f5b-4cf8-8bc4-38bae32a6181)
+![Capture d’écran 2023-09-04 194947](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/b292caed-892e-4dbf-aded-585fd283a062)
 
-![imagsdsdsdsde](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/0b59ab94-b81e-46ef-8841-02a93f75b8bd)
+![imagsdsdsdsde](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/61d86219-47fd-4c27-83f7-a6e75c0b66bb)
 
 then browse to \Palia\Client\Palia\Binaries\Win64 and sellect the Shipping.exe
             or C:\Users\Admin\AppData\Local\Palia\Launcher
