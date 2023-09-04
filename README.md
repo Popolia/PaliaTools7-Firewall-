@@ -1,7 +1,7 @@
 # PaliaTools7-Firewall-
 PaliaTools7 (Firewall )
 
-comment resoudre les crashes in fishing and vivox ("Client travel experienced failure")
+how to solve crashes in fishing and vivox ("Client travel experienced failure")
 
 ![Capture d’écran 2023-09-04 194244](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/3b1559c1-b79a-49cf-9bb1-e5b1dc0ff50f)
 
