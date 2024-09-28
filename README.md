@@ -1,24 +1,33 @@
-# PaliaTools7-Firewall-
-PaliaTools7 (Firewall )
+# Script pour Autoriser Palia dans le Pare-feu et Exécuter l'Application
 
-how to solve crashes in fishing and vivox ("Client travel experienced failure")
+## Description
 
-gear => update and security => windows security => open window security => Firewall and protection => authorise an application via the firewall 
+Ce script PowerShell permet d'autoriser l'application Palia à travers le pare-feu de Windows et de lancer l'application `Shipping.exe`. Il vérifie d'abord si le fichier existe à l'emplacement spécifié, puis il ajoute une règle au pare-feu pour permettre les connexions entrantes avant de lancer l'application.
 
-ps: the procedure for people who have window as a firewall, if you have avast or other do the procedure "add an exception" in your firewall.
+## Prérequis
 
-![Capture d’écran 2023-09-04 194244](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/3b1559c1-b79a-49cf-9bb1-e5b1dc0ff50f)
+- Windows avec PowerShell
+- Droits d'administrateur pour exécuter le script
+- Politique d'exécution PowerShell définie sur `RemoteSigned` ou `Unrestricted`
+- lancer le .exe
 
-![Capture d’écran 2023-09-04 194802](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/0a530410-05f8-4822-83fb-dfddc49a23f5)
 
-![Capture d’écran 2023-09-04 194602](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/7e6754e3-a2f8-424a-ad4b-40f2ebc5bb1f)
+## Chemin de l'Exécutable
 
-![Capture d’écran 2023-09-04 194841](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/7c296aef-ecae-4241-a239-69e0bdf84828)
+- Le chemin vers l'exécutable de Palia est défini dans le script comme suit :
 
-![Capture d’écran 2023-09-04 194947](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/b292caed-892e-4dbf-aded-585fd283a062)
+```powershell
+$exePath = "C:\Palia\Client\Palia\Binaries\Win64\Shipping.exe"
 
-![imagsdsdsdsde](https://github.com/Popolia/PaliaTools7-Firewall-/assets/69745473/61d86219-47fd-4c27-83f7-a6e75c0b66bb)
+## vertion manuel 
 
-then browse to \Palia\Client\Palia\Binaries\Win64 and sellect the Shipping.exe
+PaliaTools7 (Pare-feu)
 
-or C:\Users\Admin\AppData\Local\Palia\Launcher
+comment résoudre les accidents de pêche et vivox ("Échec du voyage client")
+
+gear => mise à jour et sécurité => sécurité windows => sécurité fenêtre ouverte => Pare-feu et protection => autoriser une application via le pare-feu
+
+ps : la procédure pour les personnes qui ont window comme pare-feu, si vous avez avast ou autre faites la procédure "ajouter une exception" dans votre pare-feu. 
+puis accédez à \Palia\Client\Palia\Binaries\Win64 et sélectionnez le Shipping.exe
+
+ou C:\%username%\Admin\AppData\Local\Palia\Launcher 
