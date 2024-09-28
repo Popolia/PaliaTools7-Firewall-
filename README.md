@@ -22,7 +22,7 @@ $exePath = "C:\Palia\Client\Palia\Binaries\Win64\Shipping.exe"
 
 ### Vertion manuel 
 
-PaliaTools7 (Pare-feu)
+- PaliaTools7 (Pare-feu)
 
 comment résoudre les accidents de pêche et vivox ("Échec du voyage client")
 
