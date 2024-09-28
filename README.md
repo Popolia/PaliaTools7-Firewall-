@@ -18,8 +18,9 @@ Ce script PowerShell permet d'autoriser l'application Palia à travers le pare-f
 
 ```powershell
 $exePath = "C:\Palia\Client\Palia\Binaries\Win64\Shipping.exe"
+```
 
-## vertion manuel 
+### Vertion manuel 
 
 PaliaTools7 (Pare-feu)
 
